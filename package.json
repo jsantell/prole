@@ -1,0 +1,23 @@
+{
+  "name": "prole",
+  "version": "1.0.0",
+  "description": "Simple Worker wrapper to create and off load tasks.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jsantell/prole.git"
+  },
+  "author": "Jordan Santell",
+  "license": "MPL 2.0",
+  "bugs": {
+    "url": "https://github.com/jsantell/prole/issues"
+  },
+  "homepage": "https://github.com/jsantell/prole",
+  "devDependencies": {
+    "mocha": "^2.0.1",
+    "chai": "^1.10.0",
+    "gulp": "^3.8.10",
+    "gulp-browserify-thin": "^0.1.5",
+    "gulp-header": "^1.2.2"
+  }
+}
